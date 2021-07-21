@@ -41,7 +41,7 @@ Tools to find nuclei template from github.
 go compiler:
 
 ```bash
-▶ GO111MODULE=on go get github.com/kankburhan/gampung
+▶ GO111MODULE=on go get github.com/kankburhan/gampung/cmd/gampung
 ```
 
 ### from GitHub
