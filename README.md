@@ -48,7 +48,7 @@ go compiler:
 
 ```bash
 ▶ git clone https://github.com/kankburhan/gampung
-▶ cd gampung
+▶ cd gampung/cmd/gampung/
 ▶ go build .
 ▶ (sudo) mv gampung /usr/local/bin
 ```
