@@ -4,6 +4,6 @@ go 1.15
 
 require (
 	github.com/google/go-github/v37 v37.0.0
-	github.com/projectdiscovery/gologger v1.1.8
+	github.com/projectdiscovery/gologger v1.1.9
 	golang.org/x/oauth2 v0.7.0
 )
